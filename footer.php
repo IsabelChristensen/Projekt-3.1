@@ -60,7 +60,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 				        
 				        <h3  id="kvalitetsstempel" class="tekststilOverskrrift">Member of:</h3>
 				        
-				        <a href="https://www.fearlessphotographers.com"><img id="fearlesslogo" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/fearlesslogoblack.png"></a>
+				        <a href="https://www.fearlessphotographers.com" target="_blank"><img id="fearlesslogo" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/fearlesslogoblack.png"></a>
 				        
 				    </div>
 				    
@@ -71,11 +71,11 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 				        <div class="socialelogo">
 				        
 				        <ul>
-				            <li><a href="https://www.instagram.com/gmcphotographer/"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/instagram.png"></a>
+				            <li><a href="https://www.instagram.com/gmcphotographer/" target="_blank"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/instagram.png"></a>
 				            </li>
-				            <li><a href="https://www.linkedin.com/in/gregmcqueen/"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/linkedin.png"></a>
+				            <li><a href="https://www.linkedin.com/in/gregmcqueen/" target="_blank"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/linkedin.png"></a>
 				            </li>
-				            <li><a href="https://www.facebook.com/gregmcqueenphotographer/?hc_ref=ARTJNEw9ge-GdrJix-r-KzmZaFVzGkSvslTZDuKibIAg9FZ4PeAe1FLoihrJhnIfdhQ&fref=nf"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/facebook.png"></a>
+				            <li><a href="https://www.facebook.com/gregmcqueenphotographer/?hc_ref=ARTJNEw9ge-GdrJix-r-KzmZaFVzGkSvslTZDuKibIAg9FZ4PeAe1FLoihrJhnIfdhQ&fref=nf" target="_blank"><img class="sociallogoBillede" src="http://cirosite.com/gmcphotography/wp-content/themes/Divi/images/facebook.png"></a>
 				            </li>
 				        </ul>
 				        
